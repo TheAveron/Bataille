@@ -1,5 +1,5 @@
 # Bataille
- jeu de bataille
+Contient 3 modules permettant de manipuler des cartes et notamment d'effectuer des batailles
 
 
 ## Cartes
